@@ -133,7 +133,7 @@
       "filler": "<#757575,transparent><u> </u></>",
       "segments": [
         {
-          "type": "exit",
+          "type": "status",
           "properties": {
             "always_enabled": true
           },
@@ -238,7 +238,7 @@
           },
           "style": "plain",
           "template": "\ue602 ",
-          "type": "exit"
+          "type": "status"
         }
       ],
       "type": "prompt"
